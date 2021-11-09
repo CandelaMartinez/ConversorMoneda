@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="monedas">
+        <item>Euro</item>
+        <item>Dolar EEUU</item>
+        <item>Peso Argentino</item>
+        <item>Peso Mexicano</item>
+        <item>Libra Esterlina</item>
+        <item>Dolar Canadiense</item>
+        <item>Franco Suizo</item>
+        <item>Yen Japones</item>
+        <item>Dolar Australiano</item>
+        <item>Real Brasilero</item>
+
+    </string-array>
+
+</resources>

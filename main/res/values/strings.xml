@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ConversorMonedas</string>
+
+    <string name="bt_convertir">Convertir</string>
+    <string name="tv_monedaActual">Moneda Actual</string>
+    <string name="tv_monedaConvertir">Moneda Cambio</string>
+</resources>
